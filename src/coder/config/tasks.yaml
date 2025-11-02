@@ -1,0 +1,7 @@
+coding_task:
+  description: >
+    Write python code to achieve this: {assignment}
+  expected_output: >
+    A python file that includes the code to achieve the given assignment.
+  agent: coder
+  output_file: output/program-logic.py
